@@ -2,7 +2,7 @@
 # Overview of Election Audit
 ## The purpose of this analysis is to determine the winner using python language automate the election results. The code will provide a summary of the three candiates vote pecentage, the largest county voter turnout and a summary of each county voter turnout, and the winner's outcome. 
 # Results:
-Image
+![Election_Results](https://github.com/Gdreyes172/Election_Analysis/blob/main/Resources/Election_Results.png?raw=true)
 ### Final Results.
 ## The Winner with about 74% of the overall vote count was Diana DeGette. Her overall votes were 272,892 out of 369,711.
 # 
